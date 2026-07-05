@@ -1,0 +1,6 @@
+interface:
+  display_name: "Secret Census to Godot Compatibility Contract"
+  short_description: "Use when changing the Secret Census to Godot export contract."
+  default_prompt: "Use $secret-census-godot-compatibility-contract to work safely on the relevant repository task."
+policy:
+  allow_implicit_invocation: true
